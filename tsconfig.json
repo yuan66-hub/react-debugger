@@ -1,0 +1,3 @@
+{
+    "extends":"@yuanjianming/ts-config/base.json",
+}
